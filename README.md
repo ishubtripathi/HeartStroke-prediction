@@ -1,1 +1,1 @@
-# HeartStroke-prediction
+web: gunicorn app:app
